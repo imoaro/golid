@@ -14,8 +14,8 @@ import (
 	"strings"
 )
 
-const templateTarballURL = "https://codeload.github.com/nanowattz/golid-template/tar.gz/refs/heads/main"
-const templatePlaceholderModule = "github.com/nanowattz/golid-template"
+const templateTarballURL = "https://codeload.github.com/imoaro/golid-template/tar.gz/refs/heads/main"
+const templatePlaceholderModule = "github.com/imoaro/golid-template"
 
 type pm struct {
 	name       string
